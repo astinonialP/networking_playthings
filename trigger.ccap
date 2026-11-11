@@ -1,0 +1,4 @@
+image: [aircrack]--->GOAL=regexp>"tether mediatek chipset-8 with aircrack"
+tasks:
+--cli_Methamphd3364@gmail.com | aircrack-ng handshake.cap -w princeton_clean.txt   
+   echo "Hello world!"
